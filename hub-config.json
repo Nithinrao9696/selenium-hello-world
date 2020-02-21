@@ -1,5 +1,5 @@
 {
-  "host": "0.0.0.0",
+  "host": "ap-jendx-dev",
   "port": 4444,
   "debug": true,
   "newSessionWaitTimeout": -1,
